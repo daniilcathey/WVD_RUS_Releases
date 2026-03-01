@@ -112,7 +112,7 @@
 
 ## Контакты
 
-- Telegram: [@cathey](https://t.me/cathey) — новости, обсуждение, баг-репорты
+- Telegram: [@catheyco](https://t.me/catheyco) — новости, обсуждение, баг-репорты
 - [Issues](https://github.com/daniilcathey/WVD_RUS_Releases/issues) — баг-репорты и предложения
 
 ---
